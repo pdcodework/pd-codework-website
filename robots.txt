@@ -1,0 +1,12 @@
+# Robots.txt for PD CODEWORK (https://pdcodework.com)
+User-agent: *
+Allow: /
+Disallow: /scratch/
+Disallow: /.tempmediaStorage/
+Disallow: /.system_generated/
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# XML Sitemaps
+Sitemap: https://pdcodework.com/sitemap.xml

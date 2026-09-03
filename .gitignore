@@ -1,0 +1,13 @@
+# Dependencies & IDE
+.vscode/
+.idea/
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Logs & Temp
+*.log
+npm-debug.log*
+.temp/
+.tempmediaStorage/
+scratch/
