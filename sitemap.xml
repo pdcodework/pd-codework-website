@@ -7,12 +7,12 @@
 
   <!-- 1. Home Page -->
   <url>
-    <loc>https://pdcodework.com/</loc>
+    <loc>https://pdcodework.vercel.app/</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://pdcodework.com/images/hero-founder.png</image:loc>
+      <image:loc>https://pdcodework.vercel.app/images/hero-founder.png</image:loc>
       <image:title>PD CODEWORK — Software &amp; Website Development</image:title>
       <image:caption>Modern Web &amp; Mobile App Development Agency Pune &amp; Ahilyanagar</image:caption>
     </image:image>
@@ -20,12 +20,12 @@
 
   <!-- 2. Services Page -->
   <url>
-    <loc>https://pdcodework.com/services.html</loc>
+    <loc>https://pdcodework.vercel.app/services.html</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://pdcodework.com/images/project-erp.jpg</image:loc>
+      <image:loc>https://pdcodework.vercel.app/images/project-erp.jpg</image:loc>
       <image:title>PD CODEWORK Digital Solutions &amp; Software Services</image:title>
       <image:caption>Website Development, Android &amp; iOS Apps, Manufacturing ERP, SEO, E-Commerce, and AI Automation</image:caption>
     </image:image>
@@ -33,34 +33,39 @@
 
   <!-- 3. Portfolio & Projects Page -->
   <url>
-    <loc>https://pdcodework.com/projects.html</loc>
+    <loc>https://pdcodework.vercel.app/projects.html</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://pdcodework.com/images/project-restaurant.jpg</image:loc>
+      <image:loc>https://pdcodework.vercel.app/images/project-restaurant.jpg</image:loc>
       <image:title>PD CODEWORK Case Studies &amp; Project Portfolio</image:title>
     </image:image>
   </url>
 
   <!-- 4. About Us Page -->
   <url>
-    <loc>https://pdcodework.com/about.html</loc>
+    <loc>https://pdcodework.vercel.app/about.html</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://pdcodework.com/images/hero-founder.png</image:loc>
+      <image:loc>https://pdcodework.vercel.app/images/hero-founder.png</image:loc>
       <image:title>About PD CODEWORK &amp; Leadership</image:title>
     </image:image>
   </url>
 
   <!-- 5. Contact & Consultation Page -->
   <url>
-    <loc>https://pdcodework.com/contact.html</loc>
+    <loc>https://pdcodework.vercel.app/contact.html</loc>
     <lastmod>2026-09-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pdcodework.vercel.app/images/logo.png</image:loc>
+      <image:title>Contact PD CODEWORK Software &amp; Tech Team</image:title>
+      <image:caption>Direct Developer Collaboration in Pune &amp; Ahilyanagar</image:caption>
+    </image:image>
   </url>
 
 </urlset>
